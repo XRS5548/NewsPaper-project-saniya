@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import AttendanceCalendar from "../pages/Attendancecalendar.jsx";
 import Newspaper from "../pages/Newspaper.jsx";
-import Payment from "../pages/Payment.jsx"
+import Payment from "../pages/payment.jsx"
 import Agent from "../pages/Agent.jsx";
 import History from "../pages/History.jsx";
 import Profile from "../pages/Profile.jsx";
