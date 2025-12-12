@@ -1,9 +1,9 @@
 import React, { useState } from "react";
-import AttendanceCalendar from "./pages/attendancecalendar.jsx";
-import Newspaper from "./pages/newspaper.jsx";
+import AttendanceCalendar from "./pages/attendancecalendar.js";
+import Newspaper from "./pages/newspaper.js";
 import Payment from "./pages/payment.jsx";
-import Agent from "./pages/agent.jsx";
-import History from "./pages/history.jsx";
+import Agent from "./pages/agent.js";
+import History from "./pages/history.js";
 import Profile from "./pages/profile.jsx";
 export default function Sidebar() {
     const [activeSection, setActiveSection] = useState("profile");
